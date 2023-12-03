@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MacFlippi
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analysis, pyhton and r studio.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python, r studio and general data analysis projects.
 - 📫 How to reach me: mueller.marcphillip@gmail.com
